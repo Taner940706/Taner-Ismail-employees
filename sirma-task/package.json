@@ -1,0 +1,16 @@
+{
+  "name": "sirma-task",
+  "version": "1.0.0",
+  "description": "Sirma task for trainee",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Taner Ismail",
+  "license": "ISC",
+  "dependencies": {
+    "gridjs": "^6.0.6",
+    "page.js": "^4.13.3"
+  }
+}
