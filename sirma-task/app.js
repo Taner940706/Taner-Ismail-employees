@@ -37,6 +37,7 @@ async function uploadFromFileSystem(){
 
 }
 
+
 // convert NULL to current date or string to date (Bonus points)
 function convertToDate(str){
     let date = new Date();
@@ -47,6 +48,8 @@ function convertToDate(str){
         return new Date(str)
     }
 }
+
+
 
 // create table with necessary data
 function buildTable(data){
